@@ -1,6 +1,4 @@
 # dh-study
-Pre-PhD preparation: Python, NLP, and computational methods for Digital Humanities research
-# dh-study
 
 Pre-PhD preparation work in Python and computational methods, 
 building toward Digital Humanities research.
